@@ -60,6 +60,7 @@ ScamLens can identify:
 - Python
 - Streamlit
 - Strands Agents
+- Amazon Bedrock 
 - Ollama
 - Llama 3.1
 - Regular expressions and rule-based signal detection
